@@ -1,0 +1,5 @@
+hypothesis,test,statistic,degrees_freedom,p_value,effect_size_name,effect_size,sample_size,significant_at_0_05
+Survival outcome is associated with passenger sex.,Chi-square test of independence,260.71702016732104,1.0,1.1973570627755645e-58,Cramer's V,0.5426213749215026,891,True
+Survival outcome is associated with passenger class.,Chi-square test of independence,102.88898875696056,2.0,4.549251711298793e-23,Cramer's V,0.33668387622245516,891,True
+Survivors and non-survivors have different fare distributions.,Mann-Whitney U (two-sided),129951.5,,4.553477179250237e-22,Rank-biserial correlation,0.3842446127461945,891,True
+Survivors and non-survivors have different age distributions.,Mann-Whitney U (two-sided),57682.0,,0.16049252477737763,Rank-biserial correlation,-0.06177618737800916,714,False
